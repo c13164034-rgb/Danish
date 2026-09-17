@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Local Assistant</string>
+    <string name="tagline">100% Offline &amp; On-Device Control</string>
+    <string name="privacy_guarantee">Zero Server Connection • Local Storage Only</string>
+</resources>

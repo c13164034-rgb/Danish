@@ -1,0 +1,6 @@
+{
+  "name": "Local Assistant",
+  "description": "100% offline, local AI assistant for device control, messaging, app management, and automation with zero 3rd-party servers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
